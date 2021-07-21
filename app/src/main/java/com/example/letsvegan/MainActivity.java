@@ -16,9 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
         //다시
         //나의문제
-        //된건가
+        //된건
         //ddddd
         ////sfsdfsd
         //연동완료
+        //letvegan만 남겨놔도 되는건가
     }
 }
