@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         //나의문제
         //된건가
         //ddddd
+        ////sfsdfsd
+        //연동완료
     }
 }
