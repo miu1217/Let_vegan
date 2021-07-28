@@ -23,6 +23,5 @@ public class MainActivity extends AppCompatActivity {
         //letvegan만 남겨놔도 되는건가
         //랄라
         //으아아아아아아아아아아아아ㅏ
-        //안녕하세요
     }
 }
