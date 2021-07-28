@@ -4,13 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class calender extends AppCompatActivity {
+public class calender2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_calender);
-        //HIHI
-        //hihihi 김이스르를
+        setContentView(R.layout.activity_calender2);
     }
 }
