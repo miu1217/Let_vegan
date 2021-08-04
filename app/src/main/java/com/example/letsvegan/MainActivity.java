@@ -1,8 +1,9 @@
-package com.example.letsvegan;
+package com.example.vegancalendar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -10,20 +11,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
 
 
-        //A 개발자가 B에게 푸시를 날린다.ㄴㄴㄴㄴ
+    public void previousMonthAction(View view) {
+    }
 
-        //다시
-        //나의문제
-        //된건
-        //ddddd
-        ////sfsdfsd
-        //연동완료
-        //letvegan만 남겨놔도 되는건가
-        //랄라
-        //으아아아아아아아아아아아아ㅏ
-        //hi
-
+    public void nextMonthAction(View view) {
     }
 }
