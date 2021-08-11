@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayouts
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_weight="match_parent"
     android:layout_height="match_parent"
-    tools:context=".calender">
+    tools:context=".MainActivity">
 
     <!-- Add TextView to display the date -->
     <TextView
@@ -16,8 +16,7 @@
         android:layout_marginTop="20dp"
         android:text="Set the Date"
         android:textColor="@android:color/background_dark"
-        android:textStyle="bold">
-    </TextView>
+        android:textStyle="bold" />
 
     <!-- Add CalendarView to display the Calendar -->
     <CalendarView
@@ -28,4 +27,8 @@
         android:layout_height="wrap_content">
     </CalendarView>
 
-</RelativeLayouts>
+</RelativeLayout>
+    package org.geeksforgeeks.navedmalik.calendar;
+
+    import android.support.annotation.NonNull;
+    import android.support.v7.app.AppCompatActivity;
