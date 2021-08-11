@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         //연동완료
         //letvegan만 남겨놔도 되는건가
         //랄라
+        //으아아아아아아아아아아아아ㅏ
     }
 }
