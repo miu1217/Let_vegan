@@ -1,5 +1,6 @@
 package com.example.letsvegan;
 
+
 import android.os.Bundle;
 import android.widget.CalendarView;
 import android.widget.TextView;
@@ -9,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class calender extends AppCompatActivity {
 
-     //Define the variable of CalendarView types
+     //Define the variable of CalendarView type
      //and TextView type;
     CalendarView calendar;
     TextView date_view;
@@ -28,7 +29,7 @@ public class calender extends AppCompatActivity {
         date_view = (TextView)
                 findViewById(R.id.date_view);
 
-         //Add Listener in calendar
+        //Add Listener in calendar
         calendar
                 .setOnDateChangeListener(
                         new CalendarView
