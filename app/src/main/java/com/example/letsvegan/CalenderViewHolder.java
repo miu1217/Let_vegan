@@ -1,4 +1,4 @@
-package codewithcal.au.calendarappexample;
+package com.example.letsvegan;
 
 import android.view.View;
 import android.widget.TextView;
@@ -6,7 +6,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class CalendarViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener
+class CalendarViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener
 {
     public final TextView dayOfMonth;
     private final CalendarAdapter.OnItemListener onItemListener;
